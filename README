@@ -12,5 +12,3 @@ sim_cache <BLOCKSIZE>
 	  <L2_Size> <L2_ASSOC> <L2_PREF_N> <L2_PREF_M>
 	  <trace_file>
 
-AUthor: Salil Kanitkar (sskanitk@ncsu.edu)
-
